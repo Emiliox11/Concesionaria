@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo facilitar la administración de coches dentro 
 Para empezar a utilizar este proyecto, sigue los pasos a continuación:
 
 ### Prerrequisitos
-
+ 
 Asegúrate de tener Python instalado en tu máquina. Puedes descargarlo desde [python.org](https://www.python.org/).
 
 ### Instalación
