@@ -1,0 +1,3 @@
+Correo|Nombre|Edad|Número telefónico
+npsihas@gmail.com|Nikolos|19|777 418 3263
+psihas13@gmail.com|Angel|40|777 321 0954

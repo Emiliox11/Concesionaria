@@ -1,0 +1,4 @@
+ID|Nombre|Edad|Puesto|Salario Anual|Contraseña
+0263428|Nikolos|19|Gerente|100000.0|Nikolos2004
+0261535|Ana|19|Wedding-Planner|300000.0|123abc
+0263427|Juan Pablo|20|Programador|200000.0|JP123

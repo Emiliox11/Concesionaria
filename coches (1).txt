@@ -1,0 +1,4 @@
+Marca|Modelo|NumSerie|Año|FechaIngreso|Condición|Color|Precio
+BMW|Maybatch|123456789|2020|02/04/2025|Buena|Azul|1000000
+Mercedes|Ventus|1243723|2024|23/03/2024|Excelente|Negro|3000000
+Lambo|Veneno|30492837|2023|12/01/2024|Buena|Negro Mate|10000000
