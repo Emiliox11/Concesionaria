@@ -1,0 +1,4 @@
+Marca|Modelo|Número de Serie|Año|Fecha de Ingreso|Condición|Color|Precio 
+BMW|TY300|123456789|2020|03/05/2024|Buena|Blanco|1200000
+Ferrari|RTDS200|143294|2004|04/08/2023|Regular|Rojo|4000000
+Mercedez|TRE200|837462|2020|10/01/2024|Excelente|Blanco|1500000

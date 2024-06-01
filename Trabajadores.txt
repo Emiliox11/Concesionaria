@@ -1,0 +1,3 @@
+ID|Nombre|Edad|Puesto|Salario Anual|Contraseña 
+2|Juan Pablo|22|CMO|300000|4321
+1|Nikolos|20|Gerente|500000|1234
